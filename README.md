@@ -18,7 +18,7 @@ This project analyzes sales data for a pizza restaurant using Power BI. The goal
 - [📄 Slide summary (Google Drive)](https://drive.google.com/file/d/15PT8Q32UPWkfH7TnoM9R2D0rYY_e4Etw/view?usp=sharing)
 
 ## 📷 Portfolio Preview
-![Preview Image](https://your-image-link-if-any.com)
+![Google Drive](https://drive.google.com/file/d/1Pn57QfIB3GIt8PUg5UfdzgJTvXV_V7_z/view?usp=sharing)
 
 ---
 
